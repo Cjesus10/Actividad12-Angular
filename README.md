@@ -1,4 +1,4 @@
-# Reto Sesión 12 - Angular
+# Reto Actividad Asincronagit  12 - Angular
 
 ### Alumno:
 - Cristian Joel Jesus Aire

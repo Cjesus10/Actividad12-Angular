@@ -1,4 +1,4 @@
-# Reto Actividad Asincronagit  12 - Angular
+# Reto Actividad Asincrona  12 - Angular
 
 ### Alumno:
 - Cristian Joel Jesus Aire
